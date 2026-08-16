@@ -1,0 +1,2 @@
+Model,Dataset,Train Images,Validation Images,Test Images,Image Size,Epochs,Batch Size,Optimizer,Learning Rate,Transfer Learning,Fine Tuning,Train Accuracy,Validation Accuracy,Test Accuracy,Test Loss,Precision,Recall,Weighted F1 Score,Macro F1 Score,Notes
+DenseNet121,Skin Disease (4 Classes),3393,587,447,224x224,20,32,Adam,0.0001,Yes,No,85.4995608329773,75.29812455177307,83.66890549659729,0.41367384791374207,83.90866556249743,83.66890380313198,83.29496698332414,77.28318380492293,Baseline DenseNet121

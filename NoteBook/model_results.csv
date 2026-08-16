@@ -1,0 +1,2 @@
+Model,Dataset,Train Images,Validation Images,Test Images,Image Size,Epochs,Batch Size,Optimizer,Learning Rate,Transfer Learning,Fine Tuning,Train Accuracy,Validation Accuracy,Test Accuracy,Test Loss,Precision,Recall,Weighted F1 Score,Macro F1 Score,Notes
+EfficientNetB0,Skin Disease (4 Classes),3393,587,447,224x224,14,32,Adam,0.0001,Yes,No (Frozen Backbone),83.76,74.96,82.55,0.423,0.82,0.8255,0.8195,0.7432,Baseline EfficientNetB0

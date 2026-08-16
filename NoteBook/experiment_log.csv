@@ -1,0 +1,2 @@
+Experiment ID,Model,Experiment,Image Size,Batch Size,Epochs,Learning Rate,Frozen Layers,Augmentation,Class Weight,Validation Accuracy,Test Accuracy,Remarks
+1,EfficientNetB0,Baseline Transfer Learning,224,32,14,0.0001,All,No,No,74.96,82.55,Best baseline model

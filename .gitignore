@@ -1,0 +1,53 @@
+# ==========================================
+# Environments & Secrets
+# ==========================================
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Python & Bytecode Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ==========================================
+# Large ML Model Files & Datasets
+# ==========================================
+*.keras
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.onnx
+
+# Ignore dataset folders
+SkinDisease_Prepared/
+anaconda_projects/
+
+# ==========================================
+# IDE & Editor Settings
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,5 @@
+Class,Precision,Recall,F1 Score,Support
+Benign_Tumors,0.7273,0.8595,0.7879,121
+Skin_Cancer,0.7313,0.6364,0.6806,77
+Unknown_Normal,0.9895,1.0,0.9947,189
+Vascular_Tumors,0.587,0.45,0.5094,60

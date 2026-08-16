@@ -1,0 +1,2 @@
+Model,Dataset,Train Images,Validation Images,Test Images,Image Size,Epochs,Batch Size,Optimizer,Learning Rate,Transfer Learning,Fine Tuning,Train Accuracy,Validation Accuracy,Test Accuracy,Test Loss,Precision,Recall,Weighted F1 Score,Macro F1 Score,Notes
+MobileNetV2,Skin Disease (4 Classes),3393,587,447,224x224,17,32,Adam,0.0001,Yes,No,83.25965404510498,73.76490831375122,82.32662081718445,0.49531641602516174,82.15066658842848,82.32662192393735,81.76597097167287,74.94124526888488,Baseline MobileNetV2
